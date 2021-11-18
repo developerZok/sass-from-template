@@ -5,12 +5,13 @@ html{
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Barlow", "Tahoma", sans-serif;
+    font-family: "Nunito", "Tahoma", sans-serif;
     height: 100%;
 }
 .container{
